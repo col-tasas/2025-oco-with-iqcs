@@ -18,6 +18,12 @@ The code was developed with Python 3.11. All relevant packages can be installed 
 pip install -r requirements.txt
 ```
 
+All SDPs are solved with the commericial solver MOSEK.
+```bash 
+pip install Mosek
+```
+An academic license can be requested [here](https://www.mosek.com/products/academic-licenses/). Other open-source solvers might work as well (e.g. cvxopt), however, we observed best numerical stability with MOSEK.
+
 ## Running Experiments
 All experiments can be replicated in an associated notebook ``oco_iqc.ipynb``.
 
