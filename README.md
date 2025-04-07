@@ -1,5 +1,5 @@
 <!-- PROJECT SHIELDS -->
-<!-- [![arXiv][arxiv-shield]][arxiv-url] -->
+[![arXiv][arxiv-shield]][arxiv-url]
 [![MIT License][license-shield]][license-url]
 [![ReseachGate][researchgate-shield]][researchgate-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -33,8 +33,8 @@ All experiments can be replicated in an associated notebook ``oco_iqc.ipynb``.
 [license-url]: https://github.com/col-tasas/2025-oco-with-iqcs/blob/main/LICENSE
 <!-- [webpage-shield]: https://img.shields.io/badge/Webpage-Fabian%20Jakob-T?style=flat&logo=codementor&color=green
 [webpage-url]: https://www.ist.uni-stuttgart.de/institute/team/Jakob-00004/ add personal webpage -->
-<!-- [arxiv-shield]: https://img.shields.io/badge/arXiv-2501.07461-t?style=flat&logo=arxiv&logoColor=white&color=red -->
-<!-- [arxiv-url]: https://arxiv.org/abs/2501.07461 -->
+[arxiv-shield]: https://img.shields.io/badge/arXiv-2503.23600-t?style=flat&logo=arxiv&logoColor=white&color=red
+[arxiv-url]: https://arxiv.org/abs/2503.23600
 <!-- [finalpaper-shield]: https://img.shields.io/badge/SIAM-Paper-T?style=flat&color=red
 [finalpaper-url]: https://google.com -->
 [researchgate-shield]: https://img.shields.io/badge/ResearchGate-Fabian%20Jakob-T?style=flat&logo=researchgate&color=darkgreen
