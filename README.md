@@ -13,7 +13,7 @@
 This repository contains the code from our paper "Online Convex Optimization and Integral Quadratic Constraints: A new approach to regret analysis". The preprint is accessible on [arXiv](https://arxiv.org/abs/2503.23600).
 
 ## Installation
-All relevant packages can be installed 
+The code was developed with Python 3.11. All relevant packages can be installed with
 ```bash 
 pip install -r requirements.txt
 ```
