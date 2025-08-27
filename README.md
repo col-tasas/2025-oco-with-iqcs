@@ -8,9 +8,9 @@
 <!-- [![Scholar][scholar-shield]][scholar-url] -->
 <!-- [![Webpage][webpage-shield]][webpage-url] -->
 
-# Online Convex Optimization and Integral Quadratic Constraints: A new approach to regret analysis
+# Online Convex Optimization and Integral Quadratic Constraints: An automated approach to regret analysis
 
-This repository contains the code from our paper "Online Convex Optimization and Integral Quadratic Constraints: A new approach to regret analysis". The preprint is accessible on [arXiv](https://arxiv.org/abs/2503.23600).
+This repository contains the code from our paper "Online Convex Optimization and Integral Quadratic Constraints: An automated approach to regret analysis". The preprint is accessible on [arXiv](https://arxiv.org/abs/2503.23600).
 
 ## Installation
 The code was developed with Python 3.11. All relevant packages can be installed with

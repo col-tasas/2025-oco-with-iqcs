@@ -73,3 +73,22 @@ def multi_step_gradient(m,L,K):
     p, q = K, 0
 
     return ctrl.ss(A,B,C,D,dt=1), p, q
+
+def accelerated_ogd(m,L):
+    alpha = 1/L
+    gamma = 1/L
+    tau   = gamma*alpha
+
+    A = np.asarray([[tau, 1-tau], 
+                    [0,       1]])
+    
+    B = np.asarray([[-gamma], 
+                    [-alpha]])
+    
+    C = np.asarray([[tau, 1-tau]])
+    
+    D = np.asarray([[0]])
+
+    p, q = 1, 0
+
+    return ctrl.ss(A,B,C,D,dt=1), p, q
